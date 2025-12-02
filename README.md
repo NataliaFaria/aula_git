@@ -12,36 +12,37 @@ Sou a Natalia, uma aspirante a dev na **Turma 7 da Alpha EdTech**
   
   <details>
     <summary>🔒 Redes e Segurança (Prof. Kenji)</summary>
-
-        * Aula 01 - Conceitos fundamentais de redes de computadores
-        * Aula 02 - Protocolos de comunicação em Redes
-        * Aula 03 - Endereçamento de IP, Sub-redes e Portas
-        * Aula 04 - Serviços e Aplicações na Internet
-        * Aula 05 - DNS (Domain Name System)
-        * Aula 06 - Arquitetura da Internet
-        * Aula 07 - Redes de Computadores
-        * Aula 08 - Segurança de Redes
-        * Aula 09 - Segurança na Web
-        * Aula 10 - Tendências e Desafios nas Redes Modernas
+    <ul>
+        <li>Aula 01 – Conceitos fundamentais de redes de computadores</li>
+        <li>Aula 02 – Protocolos de comunicação em redes</li>
+        <li>Aula 03 – Endereçamento de IP, sub-redes e portas</li>
+        <li>Aula 04 – Serviços e aplicações na internet</li>
+        <li>Aula 05 – DNS (Domain Name System)</li>
+        <li>Aula 06 – Arquitetura da internet</li>
+        <li>Aula 07 – Redes de computadores</li>
+        <li>Aula 08 – Segurança de redes</li>
+        <li>Aula 09 – Segurança na web</li>
+        <li>Aula 10 – Tendências e desafios nas redes modernas</li>
+  </ul>
   </details>
 
   <details>
     <summary>🔀 Controle de Versão (Profs. Marcotti & Mori)</summary>
-    
-        * Aula 01 - Git, VSCode e GitLens
-        * Aula 02 - Branches e Merge
-        * Aula 03 - Repositório Remoto
-        * Aula 04 - Pull Request
-
+    <ul>
+        <li>Aula 01 – Git, VSCode e GitLens</li>
+        <li>Aula 02 – Branches e Merge</li>
+        <li>Aula 03 – Repositório Remoto</li>
+        <li>Aula 04 – Pull Request</li>
+    </ul>
   </details>
 
   <details>
     <summary>🌐 HTML e CSS (Prof. Ozias)</summary>
-    
-        * Aula 01 - HTML 5 - HyperText Markup Language
-        * 🚧 (Em construção)
+    <ul>    
+        <li>Aula 01 - HTML 5 - HyperText Markup Language</li>
+        <li>🚧 (Em construção)</li>
+    </ul>
   </details>
-
 </details>
 
 ### 🗣️ 2. Soft Skills
@@ -50,10 +51,10 @@ Sou a Natalia, uma aspirante a dev na **Turma 7 da Alpha EdTech**
     <summary>Clique para ver as habilidades comportamentais</summary>
     <details>   
         <summary>🧠 Competências Comportamentais (Profa. Flávia):</summary>
-    
-        * Aula 01 - Introdução à Comunicação Eficaz
-        * Aula 02 - Elementos da Comunicação
-
+    <ul>
+        <li>Aula 01 - Introdução à Comunicação Eficaz</li>
+        <li>Aula 02 - Elementos da Comunicação</li>
+    </ul>
 </details>
 </details>
 
